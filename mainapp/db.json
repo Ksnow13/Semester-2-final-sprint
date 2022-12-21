@@ -1,0 +1,84 @@
+{
+  "feeds": [
+    {
+      "author": "kyle",
+      "title": "hey",
+      "picture": "",
+      "body": ":)",
+      "likes": 3,
+      "comments": [":)", "hello world"],
+      "id": 1
+    },
+    {
+      "author": "ken",
+      "title": "Vacation",
+      "picture": "https://images.unsplash.com/photo-1602002418816-5c0aeef426aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dmFjYXRpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "body": "",
+      "likes": 6,
+      "comments": ["nice", "wow"],
+      "id": 2
+    },
+    {
+      "author": "matt",
+      "title": "Pie",
+      "picture": "",
+      "body": "3.14159265358979323846264338327950288419716939937510",
+      "likes": 1,
+      "comments": [],
+      "id": 3
+    },
+    {
+      "author": "Tyler",
+      "title": "Looking Good!",
+      "picture": "https://images.unsplash.com/photo-1433162653888-a571db5ccccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGZ1bm55JTIwZG9nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "body": "",
+      "likes": 6,
+      "comments": [],
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "firstname": "kyle",
+      "lastname": "snow",
+      "username": "ksnow13",
+      "password": "xxx",
+      "id": 1
+    },
+    {
+      "firstname": "Tyler",
+      "lastname": "Power",
+      "username": "Tpow",
+      "password": "Keyin2021",
+      "id": 2
+    },
+    {
+      "firstname": "ken",
+      "lastname": "ken",
+      "username": "kenken",
+      "password": "ccc",
+      "id": 3
+    },
+    {
+      "firstname": "bary",
+      "lastname": "bones",
+      "username": "bbones",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "firstname": "sarah",
+      "lastname": "dawn",
+      "username": "sd13",
+      "password": "4321",
+      "id": 5
+    }
+  ],
+  "currentlogin": [
+    {
+      "userName": "ksnow13",
+      "password": "xxx",
+      "id": 1
+    }
+  ]
+}
